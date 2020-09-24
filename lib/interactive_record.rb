@@ -6,9 +6,9 @@
 
 
 
-require_relative "../config/environment.rb"
-require 'active_support/inflector'
+# require_relative "../config/environment.rb"
+# require 'active_support/inflector'
 
-class InteractiveRecord
+# class InteractiveRecord
   
-end
+# end
